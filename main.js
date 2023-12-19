@@ -142,6 +142,7 @@ function submitForm() {
     var firstName = document.getElementById('firstName').value;
     var lastName = document.getElementById('lastName').value;
     var email = document.getElementById('email').value;
+    
     var address = document.getElementById('address').value;
     var Phone_no = document.getElementById('Phone_no').value;
 
